@@ -470,7 +470,7 @@
                     </span>
 
                     <span>
-                        VISION
+                        ROBOFLOW VISION
                     </span>
 
                 </div>
@@ -711,7 +711,7 @@
                 in the Philippines.
 
             </p>
-
+// Fix to the list of fruits sa objectives
         </div>
 
 
@@ -1187,7 +1187,7 @@
         <div>
 
             <div class="section-label">
-                RESEARCH PROJECT
+                CAPSTONE PROJECT
             </div>
 
 
