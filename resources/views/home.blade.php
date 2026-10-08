@@ -1205,7 +1205,7 @@
 
             <p>
 
-                Fruitectives V2 is an academic research and
+                Fruitectives V2 is an Capstone project research and
                 software development project focused on
                 applying artificial intelligence to fruit
                 recognition, ripeness assessment and quality
@@ -1328,7 +1328,7 @@
             </span>
 
             <span>
-                Academic Research Project
+                Capstone Project
             </span>
 
         </div>
