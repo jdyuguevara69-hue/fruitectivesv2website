@@ -38,9 +38,9 @@
 
         <a href="#" class="logo">
 
-            <span class="logo-icon">
-                F
-            </span>
+            <img class="logo-icon"
+                 src="{{ asset('images/fruitectives-logo.png') }}"
+                 alt="Fruitectives logo">
 
             <span>
                 Fruitectives
